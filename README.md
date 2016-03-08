@@ -43,7 +43,9 @@ If everything is fine, user will see similar message as below in the second node
 >Members [2] {
 
 >	Member [172.17.0.3]:5701
+
 >	Member [172.17.0.2]:5701 this
+
 >}
 
 ##How to access the hazelcast node(s)
